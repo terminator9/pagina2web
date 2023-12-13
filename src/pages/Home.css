@@ -1,0 +1,16 @@
+.tittle{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(231, 10, 10);
+}
+.cuerpo{
+    margin-top:  30px; 
+    
+}
+.Carrusel{
+    max-width: 100%;
+}
+.TodoAncho{
+    margin: 0%;
+    display: block;
+}
